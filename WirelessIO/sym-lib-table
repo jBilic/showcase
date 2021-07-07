@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name WirelessIO-rescue)(type Legacy)(uri ${KIPRJMOD}/WirelessIO-rescue.lib)(options "")(descr ""))
+)
