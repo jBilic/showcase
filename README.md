@@ -6,7 +6,7 @@ Unfortunately I cannot disclose any details publicly - that's why I've only uplo
 
 If you want to know more details, feel free to contact me.
 
-##ESP32
+## ESP32
 As you might have concluded by now, I do a lot of my projects with ESP32.
 Main reason being that majority of my projects are IoT prototypes and I need an MCU with network connectivitiy.
 ESP is therefore a perfect candidate with a huge range of SoC's, modules, examples etc.
@@ -21,5 +21,14 @@ Projects I've done up to this pooint have involved features like:
 * LoRa
 * light control (LED's)
 * power control 
+* RTOS
+* Power modes
 
 Projects involved were a IoT Coffee Machine, Home Security System, Remote Watering station etc.
+
+## STM32
+I haven't done a lot of work on STM products. As part of my professional work I do work with them, but this is mainly debugging, flashing etc.
+Recently I've acquired and STM Discovery board but haven't done a lot other than playing with some RTOS scheduling, running examples etc.
+
+
+LAST UPDATED: December 2021.
